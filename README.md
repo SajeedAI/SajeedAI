@@ -1,4 +1,4 @@
-[![MasterHead]([[https://moltrescrm.s3.ap-south-1.amazonaws.com/github_cover.png])]
+
 <h1 align="center">Hi 👋, Welcome</h1>
 <h3 align="center">A passionate fullstack devpos engineer from India</h3>
 - 🔭 I’m currently working on **FullStack with Data Science**
